@@ -18,7 +18,6 @@ export default function Album() {
           সাম্প্রতিক প্রকল্প ও UI ডেমো দেখুন।
         </motion.p>
 
-
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {projects.map((project) => (
             <motion.article key={project.name} whileHover={{ y: -4 }} className="glass-card overflow-hidden">

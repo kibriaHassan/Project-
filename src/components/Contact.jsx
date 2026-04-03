@@ -15,7 +15,6 @@ export default function Contact() {
     // TODO: Connect API endpoint or email service
   }
 
-  
   return (
     <section id="contact" className="bg-gradient-to-r from-slate-950 via-slate-900 to-slate-950 dark:from-slate-100 dark:via-slate-200 dark:to-slate-100 px-4 py-16 text-slate-100 dark:text-slate-900 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-3xl">

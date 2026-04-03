@@ -2,6 +2,8 @@ import { motion } from 'framer-motion'
 
 export default function Home() {
   return (
+
+    
     <section id="home" className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 dark:from-slate-100 dark:via-slate-200 dark:to-slate-300 px-4 py-16 text-slate-100 dark:text-slate-900 sm:px-6 lg:px-8">
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-8 lg:flex-row lg:items-center lg:justify-between">
         <motion.div

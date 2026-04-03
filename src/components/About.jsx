@@ -12,6 +12,7 @@ export default function About() {
           </p>
         </motion.div>
 
+
         <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {[
             { title: 'React & Tailwind', description: 'কম্পোনেন্ট ভিত্তিক ডিজাইন ও কাস্টম UI সিস্টেম।' },
